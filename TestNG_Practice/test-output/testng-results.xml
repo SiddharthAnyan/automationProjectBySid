@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-28T14:39:21 IST" name="Default suite" finished-at="2025-02-28T14:39:41 IST" duration-ms="19379">
+    <groups>
+    </groups>
+    <test started-at="2025-02-28T14:39:21 IST" name="Default test" finished-at="2025-02-28T14:39:41 IST" duration-ms="19379">
+      <class name="magento.MagentoSignupTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:magento.MagentoSignupTest@53ce1329]" started-at="2025-02-28T14:39:21 IST" name="setup" finished-at="2025-02-28T14:39:27 IST" duration-ms="5605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="negativeSignupTest()[pri:0, instance:magento.MagentoSignupTest@53ce1329]" started-at="2025-02-28T14:39:27 IST" name="negativeSignupTest" finished-at="2025-02-28T14:39:31 IST" duration-ms="3859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeSignupTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:magento.MagentoSignupTest@53ce1329]" started-at="2025-02-28T14:39:31 IST" name="tearDown" finished-at="2025-02-28T14:39:31 IST" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:magento.MagentoSignupTest@53ce1329]" started-at="2025-02-28T14:39:31 IST" name="setup" finished-at="2025-02-28T14:39:33 IST" duration-ms="1619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="positiveSignupTest()[pri:0, instance:magento.MagentoSignupTest@53ce1329]" started-at="2025-02-28T14:39:33 IST" name="positiveSignupTest" finished-at="2025-02-28T14:39:40 IST" duration-ms="7168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveSignupTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:magento.MagentoSignupTest@53ce1329]" started-at="2025-02-28T14:39:40 IST" name="tearDown" finished-at="2025-02-28T14:39:41 IST" duration-ms="678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- magento.MagentoSignupTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
